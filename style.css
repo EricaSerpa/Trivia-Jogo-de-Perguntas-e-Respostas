@@ -1,0 +1,57 @@
+body{
+    background-color: rgba(248, 248, 108, 0.685);
+}
+
+header{
+    color: rgba(48, 48, 48, 0.925);
+    text-align: center;
+    justify-content: center
+}
+
+h1 {
+    font-size: 75px;
+}
+
+#congratulations {
+    font-size: 30px;
+    color: rgba(48, 48, 48, 0.925);
+}
+
+p{
+    font: normal 17px Arial;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    border-radius: 10px;
+    width: 500px;
+    margin: 10px;
+    text-align: center;
+    ;
+    
+}
+#correct p{
+    color:  rgba(48, 48, 48, 0.925);
+    font:normal 20px Arial;
+}
+
+#correct {
+background-color: rgba(50, 201, 143, 0.5);
+color: rgba(2, 44, 25, 0.801);
+font:normal 20px Arial;
+}
+
+#incorrect p{
+    color:  rgba(48, 48, 48, 0.925);
+    font:normal 20px Arial;
+}
+
+#incorrect {
+    background-color: rgba(255, 167, 67, 0.658);
+    color: rgba(250, 40, 3, 0.938);
+    font:normal 20px Arial;
+    }
