@@ -14,7 +14,7 @@ Trivia é um projeto proposto para a admissão no bootcamp da Laboratória a des
 5. [Desenvolvedoras](#woman_desenvolvedoras)
 
 ---
-    
+<a id="Projeto"></a>    
 ## 🔖 Projeto
 
 Neste projeto desenvolverá uma aplicações web de perguntas e respostas. Sua aplicação deve permitir que o usuário responda uma perguntas e escolha as 
@@ -26,14 +26,14 @@ O objetivo principal deste projeto é ter uma primeira experiência desenvolvend
 desenvolver a lógica, utilizando HTML, CSS e JavaScript como ferramentas.
 
 ---
-
+<a id="Produto"></a>
 ## 📝 Produto
 
 Trivia foi desenvolvido inspirado em game shows, jogos de perguntas de conhecimentos Gerais. 
 Diversos de game shows utilizam questões de conhecimento geral para fins de entretenimento. 
 
 ---
-
+<a id="Design"></a>
 ## 🎨 Design
 
 Desenvolvido usando as palhetas de cores que remete a games vintage.
@@ -52,7 +52,7 @@ As perguntas são realizadas em alertas conforme interação do usuário
 ![Captura de Tela 2021-06-21 às 18 22 46](https://user-images.githubusercontent.com/83040250/122834866-caef4200-d2c5-11eb-877d-7dae571aac38.png)
 
 ---
-
+<a id="Tecnologia-utilizadas"></a>
 ## ⚙️ Tecnologia utilizadas
 
 Neste projeto foi utilizado
@@ -76,8 +76,10 @@ Estrutura de código e guia de estilo
     Uso identificadores descritivos (Nomenclatura | Semântica).
 
 ---
+<a id="Desenvolvedoras"></a>
+## 👩‍💻 Desenvolvedoras
 
-## 👩‍💻 Desenvolvido por
+Desenvolvido por:
 
    <div align="center">
   <table>
