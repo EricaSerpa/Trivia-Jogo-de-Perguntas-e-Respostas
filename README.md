@@ -7,11 +7,11 @@ Trivia é um projeto proposto para a admissão no bootcamp da Laboratória a des
 
 ## Índice
 
-1. [Projeto](#computer-o-projeto)
-2. [Produto](#dart-definição-do-produto)
-3. [Design](#art-protótipos)
-4. [Tecnologia utilizadas](#robot-tecnologias-utilizadas)
-5. [Desenvolvedoras](#woman_desenvolvedoras)
+- [Projeto](#computer-o-projeto)
+- [Produto](#dart-definição-do-produto)
+- [Design](#art-protótipos)
+- [Tecnologia utilizadas](#robot-tecnologias-utilizadas)
+- [Desenvolvedoras](#woman_desenvolvedoras)
 
 ---
 <a id="Projeto"></a>    
