@@ -3,17 +3,19 @@
 
 Trivia é um projeto proposto para a admissão no bootcamp da Laboratória a desenvolver um jogo de perguntas e respostas. Elaborado um jogo de perguntas e respostas com temas de Atualidade, usando HTML, CSS e Javascript. 
 
+---
 
-Índice
+## Índice
 
 1. [Projeto](#computer-o-projeto)
 2. [Produto](#dart-definição-do-produto)
 3. [Design](#art-protótipos)
 4. [Tecnologia utilizadas](#robot-tecnologias-utilizadas)
+5. [Desenvolvedoras](#woman_desenvolvedoras)
+
+---
     
-    
-<a id="Projeto"></a>
-🔖 Projeto
+## 🔖 Projeto
 
 Neste projeto desenvolverá uma aplicações web de perguntas e respostas. Sua aplicação deve permitir que o usuário responda uma perguntas e escolha as 
 respostas, a partir de uma lista de alternativas. 
@@ -23,14 +25,16 @@ O tema é livre. Você deve criar a melhor aplicação web possível.
 O objetivo principal deste projeto é ter uma primeira experiência desenvolvendo aplicações web (WebApp) que interajam com o usuário através do navegador e 
 desenvolver a lógica, utilizando HTML, CSS e JavaScript como ferramentas.
 
-<a id="Produto"></a>
-📝 Produto
+---
+
+## 📝 Produto
 
 Trivia foi desenvolvido inspirado em game shows, jogos de perguntas de conhecimentos Gerais. 
 Diversos de game shows utilizam questões de conhecimento geral para fins de entretenimento. 
 
-<a id="#interface"></a>
-🎨 Design
+---
+
+## 🎨 Design
 
 Desenvolvido usando as palhetas de cores que remete a games vintage.
 
@@ -47,8 +51,9 @@ As perguntas são realizadas em alertas conforme interação do usuário
 ![Captura de Tela 2021-06-21 às 18 22 32](https://user-images.githubusercontent.com/83040250/122834859-c6c32480-d2c5-11eb-9434-f35635d84caa.png)
 ![Captura de Tela 2021-06-21 às 18 22 46](https://user-images.githubusercontent.com/83040250/122834866-caef4200-d2c5-11eb-877d-7dae571aac38.png)
 
-<a id="#learn"></a>    
-⚙️ Tecnologia utilizadas
+---
+
+## ⚙️ Tecnologia utilizadas
 
 Neste projeto foi utilizado
 
@@ -70,8 +75,9 @@ Estrutura de código e guia de estilo
 
     Uso identificadores descritivos (Nomenclatura | Semântica).
 
+---
 
-👩‍💻 Desenvolvido por
+## 👩‍💻 Desenvolvido por
 
    <div align="center">
   <table>
