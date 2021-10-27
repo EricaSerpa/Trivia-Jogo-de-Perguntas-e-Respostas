@@ -52,7 +52,7 @@ As perguntas são realizadas em alertas conforme interação do usuário
 ![Captura de Tela 2021-06-21 às 18 22 46](https://user-images.githubusercontent.com/83040250/122834866-caef4200-d2c5-11eb-877d-7dae571aac38.png)
 
 ---
-<a id="#tecnologias-utilizadas"></a>
+<a id="tecnologias-utilizadas"></a>
 ## ⚙️ Tecnologia utilizadas
 
 Neste projeto foi utilizado
