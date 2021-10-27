@@ -1,17 +1,18 @@
-# projeto-lab - Trivia
+# Jogo de Perguntas e Respostas - Trivia
 
 
-Trivia é um projeto proposto para a admissão no bootcamp da Laboratória a desenvolver um jogo de perguntas e respostas. Elaborado usando HTML, CSS e Javascript. 
+Trivia é um projeto proposto para a admissão no bootcamp da Laboratória a desenvolver um jogo de perguntas e respostas. Elaborado um jogo de perguntas e respostas com temas de Atualidade, usando HTML, CSS e Javascript. 
 
 
 Índice
 
-    1 - Projeto
-    2 - Produto
-    3 - Design
-    4 - Tecnologia utilizadas
+1. [Projeto](#computer-o-projeto)
+2. [Produto](#dart-definição-do-produto)
+3. [Design](#art-protótipos)
+4. [Tecnologia utilizadas](#robot-tecnologias-utilizadas)
     
-
+    
+<a id="Projeto"></a>
 🔖 Projeto
 
 Neste projeto desenvolverá uma aplicações web de perguntas e respostas. Sua aplicação deve permitir que o usuário responda uma perguntas e escolha as 
@@ -22,13 +23,13 @@ O tema é livre. Você deve criar a melhor aplicação web possível.
 O objetivo principal deste projeto é ter uma primeira experiência desenvolvendo aplicações web (WebApp) que interajam com o usuário através do navegador e 
 desenvolver a lógica, utilizando HTML, CSS e JavaScript como ferramentas.
 
-
+<a id="Produto"></a>
 📝 Produto
 
 Trivia foi desenvolvido inspirado em game shows, jogos de perguntas de conhecimentos Gerais. 
 Diversos de game shows utilizam questões de conhecimento geral para fins de entretenimento. 
 
-
+<a id="#interface"></a>
 🎨 Design
 
 Desenvolvido usando as palhetas de cores que remete a games vintage.
@@ -46,7 +47,7 @@ As perguntas são realizadas em alertas conforme interação do usuário
 ![Captura de Tela 2021-06-21 às 18 22 32](https://user-images.githubusercontent.com/83040250/122834859-c6c32480-d2c5-11eb-9434-f35635d84caa.png)
 ![Captura de Tela 2021-06-21 às 18 22 46](https://user-images.githubusercontent.com/83040250/122834866-caef4200-d2c5-11eb-877d-7dae571aac38.png)
 
-    
+<a id="#learn"></a>    
 ⚙️ Tecnologia utilizadas
 
 Neste projeto foi utilizado
@@ -72,4 +73,45 @@ Estrutura de código e guia de estilo
 
 👩‍💻 Desenvolvido por
 
-   ennygoncalves e @ericaserpa
+   <div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Erica Serpa</th>
+        <th align="center">Ennyli Gonçalves</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="#">
+            <img src="https://avatars.githubusercontent.com/u/83040250?v=4" width="100px;" alt="Foto da Erica Serpa no GitHub"/><br>
+          </a>
+        </td>
+        <td align="center">
+          <a href="#">
+            <img src="https://avatars.githubusercontent.com/u/83622583?v=4" width="100px;" alt="Foto da Ennyli Gonçalves no GitHub"/><br>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/EricaSerpa">
+            <img alt="GitHub - Erica Serpa" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
+          </a>
+          <a href="https://www.linkedin.com/in/ericaserpa/">
+            <img alt="LinkedIn - Erica Serpa" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/ennygoncalves">
+            <img alt="GitHub - Ennyli Gonçalves" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
+          </a>
+          <a href="https://www.linkedin.com/in/ennyligoncalves/">
+            <img alt="LinkedIn - Ennyli Gonçalves" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
