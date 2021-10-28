@@ -1,6 +1,6 @@
 # Trivia - Jogo de Perguntas e Respostas
 
- Acesse nosso projeto [clicando aqui](ericaserpa.github.io/projeto-lab/)
+ Acesse nosso projeto [clicando aqui](https://ericaserpa.github.io/Trivia-Jogo-de-Perguntas-e-Respostas/)
 
 
 Trivia é um projeto proposto para a admissão no bootcamp da Laboratória a desenvolver um jogo de perguntas e respostas. Elaborado um jogo de perguntas e respostas com temas de Atualidade, usando HTML, CSS e Javascript. 
