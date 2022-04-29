@@ -19,7 +19,7 @@ Trivia é um projeto proposto para a admissão no bootcamp da Laboratória a des
 <a id="Projeto"></a>    
 ## 🔖 Projeto
 
-Neste projeto desenvolverá uma aplicações web de perguntas e respostas. Sua aplicação deve permitir que o usuário responda uma perguntas e escolha as 
+Neste projeto desenvolvemos uma aplicações web de perguntas e respostas. Sua aplicação deve permitir que o usuário responda uma perguntas e escolha as 
 respostas, a partir de uma lista de alternativas. 
 
 O tema é livre. Você deve criar a melhor aplicação web possível.
